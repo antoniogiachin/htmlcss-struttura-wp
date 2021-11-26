@@ -51,7 +51,7 @@ header{
 
     /* posizionamento bottom float  */
 .section.bottom .section__container .section__aside, .section.bottom .section__container .section__article{
-    height: 100%;
+    height: 632px;
     background-color: #AACEE6 ;
     float: left;
 }
@@ -62,7 +62,7 @@ header{
 
 .section.bottom .section__container .section__article{
     width: 58%;
-    margin: 0% 1%;
+    margin: 0 1%;
 }
     /* fine posizionamento bottom float  */
 
